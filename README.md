@@ -1,4 +1,4 @@
-#JS101-Loops
+# JS101-Loops
 
 ### Loops
 * __for__ - loops through a block of code a number of times
